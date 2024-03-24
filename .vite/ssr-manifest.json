@@ -41,26 +41,26 @@
   "node_modules/vue-router-better-scroller/dist/index.mjs": [],
   "node_modules/vue-router/dist/vue-router.mjs": [],
   "pages/about.md": [
-    "/assets/about-CfZNomm9.js"
+    "./assets/about-CNnEvICK.js"
   ],
   "pages/demos.md": [
-    "/assets/demos-oLR2-vTw.js"
+    "./assets/demos-D2Rg3n74.js"
   ],
   "pages/index.md": [],
   "pages/posts/index.md": [
-    "/assets/index-cv63BE6M.js"
+    "./assets/index-Cao9uBPq.js"
   ],
   "pages/posts/waterfall.md": [
-    "/assets/waterfall-BoAYjfI5.js"
+    "./assets/waterfall-BP958wHS.js"
   ],
   "pages/test.vue": [
-    "/assets/test-ERRBfRl7.js"
+    "./assets/test-BtDa-00h.js"
   ],
   "src/App.vue": [],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&scoped=dde95c02&lang.css": [],
   "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-cv63BE6M.js"
+    "./assets/index-Cao9uBPq.js"
   ],
   "src/components/Logo.vue": [],
   "src/components/Logo.vue?vue&type=style&index=0&scoped=1d4a309f&lang.css": [],
@@ -69,7 +69,7 @@
   "src/components/NavBar.vue?vue&type=style&index=0&scoped=fe3d9b83&lang.css": [],
   "src/components/Plum.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-cv63BE6M.js"
+    "./assets/index-Cao9uBPq.js"
   ],
   "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/WrapperPost.vue?vue&type=script&setup=true&lang.ts": [],
