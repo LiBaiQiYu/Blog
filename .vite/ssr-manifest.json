@@ -164,28 +164,31 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "pages/about.md": [
-    "/assets/about-D1fH_pSv.js"
+    "/assets/about-uaZ8Qfmw.js"
   ],
   "pages/index.md": [
     "/assets/yier-i5ONzwuT.jpg",
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "pages/links.md": [
-    "/assets/links-DzE5o6uq.js",
+    "/assets/links-B-7TrEKA.js",
     "/assets/links-CudXT6A3.css"
   ],
   "pages/posts/index.md": [
-    "/assets/index-A81Y-F0j.js"
+    "/assets/index-Ty2-Rsa3.js"
+  ],
+  "pages/posts/type-challenge.md": [
+    "/assets/type-challenge-CWs_Gg4k.js"
   ],
   "pages/posts/waterfall-loadimage.md": [
-    "/assets/waterfall-loadimage-DIX8pNDy.js",
+    "/assets/waterfall-loadimage-BqdDl75A.js",
     "/assets/waterfall-B0slUQSe.png"
   ],
   "pages/posts/waterfall.md": [
-    "/assets/waterfall-CHi85ssu.js"
+    "/assets/waterfall-DS6Y23b2.js"
   ],
   "pages/test.vue": [
-    "/assets/test-zWPoHFH4.js"
+    "/assets/test-B8LbtVHS.js"
   ],
   "src/App.vue": [
     "/assets/yier-i5ONzwuT.jpg",
@@ -204,7 +207,7 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/assets/waterfall.png": [
-    "/assets/waterfall-loadimage-DIX8pNDy.js",
+    "/assets/waterfall-loadimage-BqdDl75A.js",
     "/assets/waterfall-B0slUQSe.png"
   ],
   "src/assets/yier.jpg": [
@@ -212,15 +215,15 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/components/Link.vue": [
-    "/assets/links-DzE5o6uq.js",
+    "/assets/links-B-7TrEKA.js",
     "/assets/links-CudXT6A3.css"
   ],
   "src/components/Link.vue?vue&type=style&index=0&scoped=500e4e00&lang.css": [
-    "/assets/links-DzE5o6uq.js",
+    "/assets/links-B-7TrEKA.js",
     "/assets/links-CudXT6A3.css"
   ],
   "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-A81Y-F0j.js"
+    "/assets/index-Ty2-Rsa3.js"
   ],
   "src/components/Logo.vue": [
     "/assets/yier-i5ONzwuT.jpg",
@@ -247,7 +250,7 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-A81Y-F0j.js"
+    "/assets/index-Ty2-Rsa3.js"
   ],
   "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/yier-i5ONzwuT.jpg",
