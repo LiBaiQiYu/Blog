@@ -164,31 +164,34 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "pages/about.md": [
-    "/assets/about-uaZ8Qfmw.js"
+    "/assets/about-geMlH21Y.js"
   ],
   "pages/index.md": [
     "/assets/yier-i5ONzwuT.jpg",
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "pages/links.md": [
-    "/assets/links-B-7TrEKA.js",
+    "/assets/links-C1QH0dRb.js",
     "/assets/links-CudXT6A3.css"
   ],
+  "pages/posts/closure.md": [
+    "/assets/closure-JuWP16KN.js"
+  ],
   "pages/posts/index.md": [
-    "/assets/index-Ty2-Rsa3.js"
+    "/assets/index-D83pWBrd.js"
   ],
   "pages/posts/type-challenge.md": [
-    "/assets/type-challenge-CWs_Gg4k.js"
+    "/assets/type-challenge-CF_8jRek.js"
   ],
   "pages/posts/waterfall-loadimage.md": [
-    "/assets/waterfall-loadimage-BqdDl75A.js",
+    "/assets/waterfall-loadimage-CPnEUPmJ.js",
     "/assets/waterfall-B0slUQSe.png"
   ],
   "pages/posts/waterfall.md": [
-    "/assets/waterfall-DS6Y23b2.js"
+    "/assets/waterfall-D3Xhz0g2.js"
   ],
   "pages/test.vue": [
-    "/assets/test-B8LbtVHS.js"
+    "/assets/test-D9eKkY-Z.js"
   ],
   "src/App.vue": [
     "/assets/yier-i5ONzwuT.jpg",
@@ -207,7 +210,7 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/assets/waterfall.png": [
-    "/assets/waterfall-loadimage-BqdDl75A.js",
+    "/assets/waterfall-loadimage-CPnEUPmJ.js",
     "/assets/waterfall-B0slUQSe.png"
   ],
   "src/assets/yier.jpg": [
@@ -215,15 +218,15 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/components/Link.vue": [
-    "/assets/links-B-7TrEKA.js",
+    "/assets/links-C1QH0dRb.js",
     "/assets/links-CudXT6A3.css"
   ],
   "src/components/Link.vue?vue&type=style&index=0&scoped=500e4e00&lang.css": [
-    "/assets/links-B-7TrEKA.js",
+    "/assets/links-C1QH0dRb.js",
     "/assets/links-CudXT6A3.css"
   ],
   "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-Ty2-Rsa3.js"
+    "/assets/index-D83pWBrd.js"
   ],
   "src/components/Logo.vue": [
     "/assets/yier-i5ONzwuT.jpg",
@@ -250,7 +253,7 @@
     "/assets/bubu-DYmmqTyv.jpg"
   ],
   "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-Ty2-Rsa3.js"
+    "/assets/index-D83pWBrd.js"
   ],
   "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/yier-i5ONzwuT.jpg",
